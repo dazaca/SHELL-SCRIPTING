@@ -2,6 +2,9 @@
 Some useful examples of my own sh, ksh et awk scripts.
 
 
+![BASH](https://raw.githubusercontent.com/dazaca/SHELL-SCRIPTING/master/bash-logo.bmp) 
+
+
 
 Here´s the updated list of uploaded files :
 -----------------------------------------------------
