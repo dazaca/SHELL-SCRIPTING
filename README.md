@@ -25,5 +25,9 @@ Here´s the updated list of uploaded files :
 004-Test_replacement.ksh:
 
     - Replaces old values by new values in all lines of a file that matches a given condition.
+    
+004-Test_replacement2.ksh:
+
+    - Replaces old values by new values in all lines of a file that matches a given condition (AWK version).
 
 -----------------------------------------------------
